@@ -1,4 +1,4 @@
-# Principal-Component-Analysis-on-Images
+# Principal-Component-Analysis-on-Images-For-Image-Reconstruction
 Application of Principal Component on Images.
 
 An implementation of PCA on Images to apply reconstruction of images to find variance from the distribution, inspired by EigenFaces.
